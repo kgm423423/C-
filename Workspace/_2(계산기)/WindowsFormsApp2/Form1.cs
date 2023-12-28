@@ -25,8 +25,12 @@ namespace WindowsFormsApp2 {
         double firstOpr = 0;
         double secondOpr = 0;
 
-        bool optFlag = false;
         bool isNumInputting = false;
+        bool optFlag = false;
+        bool resultFlag = false;
+        bool minus = false;
+        bool pointFlag = false;
+        bool isPointInputting = false;
 
         StringBuilder strNum = new StringBuilder();
 
@@ -53,6 +57,9 @@ namespace WindowsFormsApp2 {
                         firstOpr *= secondOpr;
                         break;
                     case Operators.Divide:
+                        if (firstOpr == 0 || secondOpr == 0) {
+                            throw new Exception("ZeroDevisonError");
+                        }
                         firstOpr /= secondOpr;
                         break;
                 }
@@ -70,14 +77,20 @@ namespace WindowsFormsApp2 {
         {
             Button btn = (Button)obj;
 
+            if (resultFlag)
+                clear();
+
             isNumInputting = true;
+            if (pointFlag)
+                isPointInputting = true;
+
 
             Display.Text += btn.Text;
             strNum.Append(btn.Text);
         }
         void optInput(object obj)
         {
-            Button btn = (Button)obj;
+            
 
             if (optFlag)
             {
@@ -88,22 +101,44 @@ namespace WindowsFormsApp2 {
             }
             else
             {
-                firstOpr = Int32.Parse(strNum.ToString());
-                strNum.Clear();
+                if (!resultFlag)
+                {
+                    firstOpr = Double.Parse(strNum.ToString());
+                    strNum.Clear();
+                }
             }
-
-            optFlag = true;
+    
             isNumInputting = false;
+            optFlag = true;
+            resultFlag = false;
+            minus = false;
+            pointFlag  = false;    
+            isPointInputting = false;
 
             Display.Text += " " + btn.Text + " ";
         }
 
         void clear()
         {
+            currentOpt = Operators.None;
+            firstOpr = 0;
+            secondOpr = 0;
 
+            isNumInputting = false;
+            optFlag = false;
+            resultFlag = false;
+            minus = false;
+            pointFlag = false;
+            isPointInputting = false;
+
+            strNum.Clear();
+            Display.Text = "";
         }
 
-        
+        bool optCheck()
+        {
+            return !isNumInputting || pointFlag && !isPointInputting ? true : false;
+        }
 
         private void Form1_Load(object sender, EventArgs e)
         {
@@ -162,7 +197,7 @@ namespace WindowsFormsApp2 {
 
         private void BtnDivide_Click(object sender, EventArgs e)
         {
-            if (!isNumInputting)
+            if (optCheck())
                 return;
 
             optInput(sender);
@@ -171,7 +206,7 @@ namespace WindowsFormsApp2 {
 
         private void BtnMultiply_Click(object sender, EventArgs e)
         {
-            if (!isNumInputting)
+            if (optCheck())
                 return;
 
             optInput(sender);
@@ -180,7 +215,17 @@ namespace WindowsFormsApp2 {
 
         private void BtnSubtract_Click(object sender, EventArgs e)
         {
-            if (!isNumInputting)
+            if (!isNumInputting && !minus)
+            {
+                strNum.Append("-");
+                Display.Text += "-";
+
+                minus = true;
+
+                return;
+            }
+
+            if (optCheck())
                 return;
 
             optInput(sender);
@@ -189,7 +234,7 @@ namespace WindowsFormsApp2 {
 
         private void BtnAdd_Click(object sender, EventArgs e)
         {
-            if (!isNumInputting)
+            if (optCheck())
                 return;
 
             optInput(sender);
@@ -198,17 +243,54 @@ namespace WindowsFormsApp2 {
 
         private void BtnPoint_Click(object sender, EventArgs e)
         {
-            
+            if (!isNumInputting || pointFlag)
+                return;
+            if (resultFlag)
+            {
+                clear();
+                return;
+            }
+                
+
+            pointFlag = true;
+            isPointInputting = false;
+
+            strNum.Append(".");
+            Display.Text += ".";
         }
 
         private void BtnAllClear_Click(object sender, EventArgs e)
         {
-            
+            clear();
         }
 
         private void BtnResult_Click(object sender, EventArgs e)
         {
+            if (optCheck() || !optFlag && !resultFlag)
+                return;
+
+            if (!resultFlag)
+            {
+                secondOpr = Double.Parse(strNum.ToString());
+                strNum.Clear();
+            }
+                
+            optFlag = false;
+            resultFlag = true;
+            pointFlag = false;
+            isPointInputting = false;
+
+            calculate();
+        }
+
+        private void Form1_KeyDown(object sender, KeyEventArgs e)
+        {
+            switch(e.KeyCode) {
+                case Keys.D0:
+
+                    break;
             
+                }
         }
     }
 }

@@ -18,3 +18,13 @@ C:\Users\kgm423423\Desktop\C#\C#Workspace\_2\WindowsFormsApp2\obj\Debug\WindowsF
 C:\Users\kgm423423\Desktop\C#\C#Workspace\_2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
 C:\Users\kgm423423\Desktop\C#\C#Workspace\_2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
 C:\Users\kgm423423\Desktop\C#\C#Workspace\_2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+C:\Users\kgm423423\Desktop\C_Sharp\Workspace\_2(계산기)\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+C:\Users\kgm423423\Desktop\C_Sharp\Workspace\_2(계산기)\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+C:\Users\kgm423423\Desktop\C_Sharp\Workspace\_2(계산기)\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+C:\Users\kgm423423\Desktop\C_Sharp\Workspace\_2(계산기)\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.AssemblyReference.cache
+C:\Users\kgm423423\Desktop\C_Sharp\Workspace\_2(계산기)\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.resources
+C:\Users\kgm423423\Desktop\C_Sharp\Workspace\_2(계산기)\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\kgm423423\Desktop\C_Sharp\Workspace\_2(계산기)\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+C:\Users\kgm423423\Desktop\C_Sharp\Workspace\_2(계산기)\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+C:\Users\kgm423423\Desktop\C_Sharp\Workspace\_2(계산기)\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+C:\Users\kgm423423\Desktop\C_Sharp\Workspace\_2(계산기)\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
