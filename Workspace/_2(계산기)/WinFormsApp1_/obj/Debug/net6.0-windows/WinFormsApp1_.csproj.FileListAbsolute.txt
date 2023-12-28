@@ -1,0 +1,16 @@
+C:\Users\kgm423423\Desktop\C#\C#Workspace\_2\WinFormsApp1_\bin\Debug\net6.0-windows\WinFormsApp1_.exe
+C:\Users\kgm423423\Desktop\C#\C#Workspace\_2\WinFormsApp1_\bin\Debug\net6.0-windows\WinFormsApp1_.deps.json
+C:\Users\kgm423423\Desktop\C#\C#Workspace\_2\WinFormsApp1_\bin\Debug\net6.0-windows\WinFormsApp1_.runtimeconfig.json
+C:\Users\kgm423423\Desktop\C#\C#Workspace\_2\WinFormsApp1_\bin\Debug\net6.0-windows\WinFormsApp1_.dll
+C:\Users\kgm423423\Desktop\C#\C#Workspace\_2\WinFormsApp1_\bin\Debug\net6.0-windows\WinFormsApp1_.pdb
+C:\Users\kgm423423\Desktop\C#\C#Workspace\_2\WinFormsApp1_\obj\Debug\net6.0-windows\WinFormsApp1_.Form1.resources
+C:\Users\kgm423423\Desktop\C#\C#Workspace\_2\WinFormsApp1_\obj\Debug\net6.0-windows\WinFormsApp1_.csproj.GenerateResource.cache
+C:\Users\kgm423423\Desktop\C#\C#Workspace\_2\WinFormsApp1_\obj\Debug\net6.0-windows\WinFormsApp1_.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kgm423423\Desktop\C#\C#Workspace\_2\WinFormsApp1_\obj\Debug\net6.0-windows\WinFormsApp1_.AssemblyInfoInputs.cache
+C:\Users\kgm423423\Desktop\C#\C#Workspace\_2\WinFormsApp1_\obj\Debug\net6.0-windows\WinFormsApp1_.AssemblyInfo.cs
+C:\Users\kgm423423\Desktop\C#\C#Workspace\_2\WinFormsApp1_\obj\Debug\net6.0-windows\WinFormsApp1_.csproj.CoreCompileInputs.cache
+C:\Users\kgm423423\Desktop\C#\C#Workspace\_2\WinFormsApp1_\obj\Debug\net6.0-windows\WinFormsApp1_.dll
+C:\Users\kgm423423\Desktop\C#\C#Workspace\_2\WinFormsApp1_\obj\Debug\net6.0-windows\refint\WinFormsApp1_.dll
+C:\Users\kgm423423\Desktop\C#\C#Workspace\_2\WinFormsApp1_\obj\Debug\net6.0-windows\WinFormsApp1_.pdb
+C:\Users\kgm423423\Desktop\C#\C#Workspace\_2\WinFormsApp1_\obj\Debug\net6.0-windows\WinFormsApp1_.genruntimeconfig.cache
+C:\Users\kgm423423\Desktop\C#\C#Workspace\_2\WinFormsApp1_\obj\Debug\net6.0-windows\ref\WinFormsApp1_.dll

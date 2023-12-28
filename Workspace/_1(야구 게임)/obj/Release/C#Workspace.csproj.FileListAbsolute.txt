@@ -1,0 +1,10 @@
+C:\Users\용담.DESKTOP-9NTU219\Desktop\C#Workspace\_1\bin\Release\C#Workspace.exe.config
+C:\Users\용담.DESKTOP-9NTU219\Desktop\C#Workspace\_1\bin\Release\C#Workspace.exe
+C:\Users\용담.DESKTOP-9NTU219\Desktop\C#Workspace\_1\bin\Release\C#Workspace.pdb
+C:\Users\용담.DESKTOP-9NTU219\Desktop\C#Workspace\_1\obj\Release\C#Workspace.csproj.AssemblyReference.cache
+C:\Users\용담.DESKTOP-9NTU219\Desktop\C#Workspace\_1\obj\Release\C_Workspace.Form1.resources
+C:\Users\용담.DESKTOP-9NTU219\Desktop\C#Workspace\_1\obj\Release\C_Workspace.Properties.Resources.resources
+C:\Users\용담.DESKTOP-9NTU219\Desktop\C#Workspace\_1\obj\Release\C#Workspace.csproj.GenerateResource.cache
+C:\Users\용담.DESKTOP-9NTU219\Desktop\C#Workspace\_1\obj\Release\C#Workspace.csproj.CoreCompileInputs.cache
+C:\Users\용담.DESKTOP-9NTU219\Desktop\C#Workspace\_1\obj\Release\C#Workspace.exe
+C:\Users\용담.DESKTOP-9NTU219\Desktop\C#Workspace\_1\obj\Release\C#Workspace.pdb
