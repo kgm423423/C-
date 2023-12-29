@@ -21,24 +21,24 @@ namespace WindowsFormsApp2 {
             Divide,
         }
 
-        Operators currentOpt = Operators.None;
-        double firstOpr = 0;
-        double secondOpr = 0;
+        Operators currentOpt;
+        double firstOpr;
+        double secondOpr;
 
-        bool isNumInputting = false;
-        bool optFlag = false;
-        bool resultFlag = false;
-        bool minus = false;
-        bool pointFlag = false;
-        bool isPointInputting = false;
+        bool isNumInputting;
+        bool optFlag;
+        bool resultFlag;
+        bool minus;
+        bool pointFlag;
+        bool isPointInputting;
 
         StringBuilder strNum = new StringBuilder();
 
         public Form1()
         {
             InitializeComponent();
-
-            Display.Text = "";
+            KeyPreview = true;
+            clear();
         }
 
         void calculate ()
@@ -73,9 +73,15 @@ namespace WindowsFormsApp2 {
             Display.Text = firstOpr.ToString();
         }
 
-        void BtnInput(object obj)
+        void BtnInput<T>(object obj)
         {
-            Button btn = (Button)obj;
+            string btnText;
+            if (typeof(T) == typeof(Button))
+            {
+                Button btn = (Button)obj;
+                btnText = btn.Text;
+            }
+            else { btnText = (string)obj; }
 
             if (resultFlag)
                 clear();
@@ -85,16 +91,36 @@ namespace WindowsFormsApp2 {
                 isPointInputting = true;
 
 
-            Display.Text += btn.Text;
-            strNum.Append(btn.Text);
+            Display.Text += btnText;
+            strNum.Append(btnText);
+
+            label1.Focus();
         }
-        void optInput(object obj)
+        void optInput<T>(object obj)
         {
-            
+            string btnText;
+            if (typeof(T) == typeof(Button))
+            {
+                Button btn = (Button)obj;
+                btnText = btn.Text;
+            }
+            else { btnText = (string)obj; }
+
+            if (btnText == "-" && !isNumInputting && !minus)
+            {
+                strNum.Append("-");
+                Display.Text += "-";
+
+                minus = true;
+
+                return;
+            }
+            else if (!isNumInputting || pointFlag && !isPointInputting)
+                return;
 
             if (optFlag)
             {
-                secondOpr = Int32.Parse(strNum.ToString());
+                secondOpr = Double.Parse(strNum.ToString());
                 strNum.Clear();
 
                 calculate();
@@ -107,6 +133,22 @@ namespace WindowsFormsApp2 {
                     strNum.Clear();
                 }
             }
+
+            switch (btnText)
+            {
+                case "+":
+                    currentOpt = Operators.Add;
+                    break;
+                case "-":
+                    currentOpt = Operators.Subtract;
+                    break;
+                case "×":
+                    currentOpt = Operators.Multiply;
+                    break;
+                case "÷":
+                    currentOpt = Operators.Divide;
+                    break;
+            }
     
             isNumInputting = false;
             optFlag = true;
@@ -115,7 +157,9 @@ namespace WindowsFormsApp2 {
             pointFlag  = false;    
             isPointInputting = false;
 
-            Display.Text += " " + btn.Text + " ";
+            Display.Text += " " + btnText + " ";
+
+            label1.Focus();
         }
 
         void clear()
@@ -135,9 +179,24 @@ namespace WindowsFormsApp2 {
             Display.Text = "";
         }
 
-        bool optCheck()
+        void result()
         {
-            return !isNumInputting || pointFlag && !isPointInputting ? true : false;
+            if (!isNumInputting || pointFlag && !isPointInputting || !optFlag && !resultFlag)
+                return;
+
+            if (!resultFlag)
+            {
+                secondOpr = Double.Parse(strNum.ToString());
+                strNum.Clear();
+            }
+
+            optFlag = false;
+            resultFlag = true;
+            pointFlag = false;
+            isPointInputting = false;
+
+            calculate();
+            label1.Focus();
         }
 
         private void Form1_Load(object sender, EventArgs e)
@@ -147,98 +206,72 @@ namespace WindowsFormsApp2 {
 
         private void Btn1_Click(object sender, EventArgs e)
         {
-            BtnInput(sender);
+            BtnInput<Button>(sender);
         }
 
         private void Btn2_Click(object sender, EventArgs e)
         {
-            BtnInput(sender);
+            BtnInput<Button>(sender);
         }
 
         private void Btn3_Click(object sender, EventArgs e)
         {
-            BtnInput(sender);
+            BtnInput<Button>(sender);
         }
 
         private void Btn4_Click(object sender, EventArgs e)
         {
-            BtnInput(sender);
+            BtnInput<Button>(sender);
         }
 
         private void Btn5_Click(object sender, EventArgs e)
         {
-                BtnInput(sender);
+            BtnInput<Button>(sender);
         }
 
         private void Btn6_Click(object sender, EventArgs e)
         {
-            BtnInput(sender);
+            BtnInput<Button>(sender);
         }
 
         private void Btn7_Click(object sender, EventArgs e)
         {
-            BtnInput(sender);
+            BtnInput<Button>(sender);
         }
 
         private void Btn8_Click(object sender, EventArgs e)
         {
-            BtnInput(sender);
+            BtnInput<Button>(sender);
         }
 
         private void Btn9_Click(object sender, EventArgs e)
         {
-            BtnInput(sender);
+            BtnInput<Button>(sender);
         }
 
         private void Btn0_Click(object sender, EventArgs e)
         {
-            BtnInput(sender);
+            BtnInput<Button>(sender);
         }
 
         private void BtnDivide_Click(object sender, EventArgs e)
         {
-            if (optCheck())
-                return;
-
-            optInput(sender);
-            currentOpt = Operators.Divide;
+            optInput<Button>(sender);
         }
 
         private void BtnMultiply_Click(object sender, EventArgs e)
         {
-            if (optCheck())
-                return;
-
-            optInput(sender);
-            currentOpt = Operators.Multiply;
+            optInput<Button>(sender);
         }
 
         private void BtnSubtract_Click(object sender, EventArgs e)
         {
-            if (!isNumInputting && !minus)
-            {
-                strNum.Append("-");
-                Display.Text += "-";
-
-                minus = true;
-
-                return;
-            }
-
-            if (optCheck())
-                return;
-
-            optInput(sender);
-            currentOpt = Operators.Subtract;
+            optInput<Button>(sender);
         }
 
         private void BtnAdd_Click(object sender, EventArgs e)
         {
-            if (optCheck())
-                return;
-
-            optInput(sender);
-            currentOpt = Operators.Add;
+            optInput<Button>(sender);
         }
 
         private void BtnPoint_Click(object sender, EventArgs e)
@@ -266,31 +299,58 @@ namespace WindowsFormsApp2 {
 
         private void BtnResult_Click(object sender, EventArgs e)
         {
-            if (optCheck() || !optFlag && !resultFlag)
-                return;
-
-            if (!resultFlag)
-            {
-                secondOpr = Double.Parse(strNum.ToString());
-                strNum.Clear();
-            }
-                
-            optFlag = false;
-            resultFlag = true;
-            pointFlag = false;
-            isPointInputting = false;
-
-            calculate();
+            result();
         }
 
         private void Form1_KeyDown(object sender, KeyEventArgs e)
         {
-            switch(e.KeyCode) {
+            switch (e.KeyCode) {
                 case Keys.D0:
-
+                    BtnInput<string>("0");
                     break;
-            
-                }
+                case Keys.D1:
+                    BtnInput<string>("1");
+                    break;
+                case Keys.D2:
+                    BtnInput<string>("2");
+                    break;
+                case Keys.D3:
+                    BtnInput<string>("3");
+                    break;
+                case Keys.D4:
+                    BtnInput<string>("4");
+                    break;
+                case Keys.D5:
+                    BtnInput<string>("5");
+                    break;
+                case Keys.D6:
+                    BtnInput<string>("6");
+                    break;
+                case Keys.D7:
+                    BtnInput<string>("7");
+                    break;
+                case Keys.D8:
+                    BtnInput<string>("8");
+                    break;
+                case Keys.D9:
+                    BtnInput<string>("9");
+                    break;
+                case Keys.Oemplus:
+                    optInput<string>("+");
+                    break;
+                case Keys.OemMinus:
+                    optInput<string>("-");
+                    break;
+                case Keys.Multiply:
+                    optInput<string>("×");
+                    break;
+                case Keys.Divide:
+                    optInput<string>("÷");
+                    break;
+                case Keys.Enter:
+                    result();
+                    break;
+            }
         }
     }
 }
