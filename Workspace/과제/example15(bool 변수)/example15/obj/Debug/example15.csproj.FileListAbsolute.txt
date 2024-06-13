@@ -1,0 +1,7 @@
+C:\Users\KimSeokhyun\Desktop\C_Sharp\Workspace\과제\example15(bool변수)\example15\bin\Debug\example15.exe.config
+C:\Users\KimSeokhyun\Desktop\C_Sharp\Workspace\과제\example15(bool변수)\example15\bin\Debug\example15.exe
+C:\Users\KimSeokhyun\Desktop\C_Sharp\Workspace\과제\example15(bool변수)\example15\bin\Debug\example15.pdb
+C:\Users\KimSeokhyun\Desktop\C_Sharp\Workspace\과제\example15(bool변수)\example15\obj\Debug\example15.csproj.AssemblyReference.cache
+C:\Users\KimSeokhyun\Desktop\C_Sharp\Workspace\과제\example15(bool변수)\example15\obj\Debug\example15.csproj.CoreCompileInputs.cache
+C:\Users\KimSeokhyun\Desktop\C_Sharp\Workspace\과제\example15(bool변수)\example15\obj\Debug\example15.exe
+C:\Users\KimSeokhyun\Desktop\C_Sharp\Workspace\과제\example15(bool변수)\example15\obj\Debug\example15.pdb

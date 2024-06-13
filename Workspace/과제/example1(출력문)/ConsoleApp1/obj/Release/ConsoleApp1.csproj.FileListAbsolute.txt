@@ -1,0 +1,7 @@
+C:\Users\KimSeokhyun\Desktop\C_Sharp\Workspace\과제1\ConsoleApp1\ConsoleApp1\bin\Release\ConsoleApp1.exe.config
+C:\Users\KimSeokhyun\Desktop\C_Sharp\Workspace\과제1\ConsoleApp1\ConsoleApp1\bin\Release\ConsoleApp1.exe
+C:\Users\KimSeokhyun\Desktop\C_Sharp\Workspace\과제1\ConsoleApp1\ConsoleApp1\bin\Release\ConsoleApp1.pdb
+C:\Users\KimSeokhyun\Desktop\C_Sharp\Workspace\과제1\ConsoleApp1\ConsoleApp1\obj\Release\ConsoleApp1.csproj.AssemblyReference.cache
+C:\Users\KimSeokhyun\Desktop\C_Sharp\Workspace\과제1\ConsoleApp1\ConsoleApp1\obj\Release\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\KimSeokhyun\Desktop\C_Sharp\Workspace\과제1\ConsoleApp1\ConsoleApp1\obj\Release\ConsoleApp1.exe
+C:\Users\KimSeokhyun\Desktop\C_Sharp\Workspace\과제1\ConsoleApp1\ConsoleApp1\obj\Release\ConsoleApp1.pdb

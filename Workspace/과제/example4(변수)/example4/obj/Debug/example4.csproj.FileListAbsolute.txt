@@ -1,0 +1,7 @@
+C:\Users\KimSeokhyun\Desktop\C_Sharp\Workspace\과제\example4(변수)\example4\bin\Debug\example4.exe.config
+C:\Users\KimSeokhyun\Desktop\C_Sharp\Workspace\과제\example4(변수)\example4\bin\Debug\example4.exe
+C:\Users\KimSeokhyun\Desktop\C_Sharp\Workspace\과제\example4(변수)\example4\bin\Debug\example4.pdb
+C:\Users\KimSeokhyun\Desktop\C_Sharp\Workspace\과제\example4(변수)\example4\obj\Debug\example4.csproj.AssemblyReference.cache
+C:\Users\KimSeokhyun\Desktop\C_Sharp\Workspace\과제\example4(변수)\example4\obj\Debug\example4.csproj.CoreCompileInputs.cache
+C:\Users\KimSeokhyun\Desktop\C_Sharp\Workspace\과제\example4(변수)\example4\obj\Debug\example4.exe
+C:\Users\KimSeokhyun\Desktop\C_Sharp\Workspace\과제\example4(변수)\example4\obj\Debug\example4.pdb

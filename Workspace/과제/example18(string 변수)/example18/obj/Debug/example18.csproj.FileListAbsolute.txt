@@ -1,0 +1,7 @@
+C:\Users\KimSeokhyun\source\repos\example18(string 변수)\example18\bin\Debug\example18.exe.config
+C:\Users\KimSeokhyun\source\repos\example18(string 변수)\example18\bin\Debug\example18.exe
+C:\Users\KimSeokhyun\source\repos\example18(string 변수)\example18\bin\Debug\example18.pdb
+C:\Users\KimSeokhyun\source\repos\example18(string 변수)\example18\obj\Debug\example18.csproj.AssemblyReference.cache
+C:\Users\KimSeokhyun\source\repos\example18(string 변수)\example18\obj\Debug\example18.csproj.CoreCompileInputs.cache
+C:\Users\KimSeokhyun\source\repos\example18(string 변수)\example18\obj\Debug\example18.exe
+C:\Users\KimSeokhyun\source\repos\example18(string 변수)\example18\obj\Debug\example18.pdb

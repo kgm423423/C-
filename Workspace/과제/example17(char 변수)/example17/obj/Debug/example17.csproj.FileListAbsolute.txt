@@ -1,0 +1,7 @@
+C:\Users\KimSeokhyun\source\repos\example17(char 변수)\example17\bin\Debug\example17.exe.config
+C:\Users\KimSeokhyun\source\repos\example17(char 변수)\example17\bin\Debug\example17.exe
+C:\Users\KimSeokhyun\source\repos\example17(char 변수)\example17\bin\Debug\example17.pdb
+C:\Users\KimSeokhyun\source\repos\example17(char 변수)\example17\obj\Debug\example17.csproj.AssemblyReference.cache
+C:\Users\KimSeokhyun\source\repos\example17(char 변수)\example17\obj\Debug\example17.csproj.CoreCompileInputs.cache
+C:\Users\KimSeokhyun\source\repos\example17(char 변수)\example17\obj\Debug\example17.exe
+C:\Users\KimSeokhyun\source\repos\example17(char 변수)\example17\obj\Debug\example17.pdb

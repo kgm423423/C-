@@ -1,0 +1,7 @@
+C:\Users\KimSeokhyun\source\repos\example12(정수 변환)\example12\bin\Debug\example12.exe.config
+C:\Users\KimSeokhyun\source\repos\example12(정수 변환)\example12\bin\Debug\example12.exe
+C:\Users\KimSeokhyun\source\repos\example12(정수 변환)\example12\bin\Debug\example12.pdb
+C:\Users\KimSeokhyun\source\repos\example12(정수 변환)\example12\obj\Debug\example12.csproj.AssemblyReference.cache
+C:\Users\KimSeokhyun\source\repos\example12(정수 변환)\example12\obj\Debug\example12.csproj.CoreCompileInputs.cache
+C:\Users\KimSeokhyun\source\repos\example12(정수 변환)\example12\obj\Debug\example12.exe
+C:\Users\KimSeokhyun\source\repos\example12(정수 변환)\example12\obj\Debug\example12.pdb

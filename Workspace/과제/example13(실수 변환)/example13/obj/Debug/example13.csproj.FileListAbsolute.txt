@@ -1,0 +1,7 @@
+C:\Users\KimSeokhyun\source\repos\example13(실수 변환)\example13\bin\Debug\example13.exe.config
+C:\Users\KimSeokhyun\source\repos\example13(실수 변환)\example13\bin\Debug\example13.exe
+C:\Users\KimSeokhyun\source\repos\example13(실수 변환)\example13\bin\Debug\example13.pdb
+C:\Users\KimSeokhyun\source\repos\example13(실수 변환)\example13\obj\Debug\example13.csproj.AssemblyReference.cache
+C:\Users\KimSeokhyun\source\repos\example13(실수 변환)\example13\obj\Debug\example13.csproj.CoreCompileInputs.cache
+C:\Users\KimSeokhyun\source\repos\example13(실수 변환)\example13\obj\Debug\example13.exe
+C:\Users\KimSeokhyun\source\repos\example13(실수 변환)\example13\obj\Debug\example13.pdb

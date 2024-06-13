@@ -1,0 +1,7 @@
+C:\Users\KimSeokhyun\Desktop\C_Sharp\Workspace\과제\example5(정수 자료형)\example5\bin\Debug\example5.exe.config
+C:\Users\KimSeokhyun\Desktop\C_Sharp\Workspace\과제\example5(정수 자료형)\example5\bin\Debug\example5.exe
+C:\Users\KimSeokhyun\Desktop\C_Sharp\Workspace\과제\example5(정수 자료형)\example5\bin\Debug\example5.pdb
+C:\Users\KimSeokhyun\Desktop\C_Sharp\Workspace\과제\example5(정수 자료형)\example5\obj\Debug\example5.csproj.AssemblyReference.cache
+C:\Users\KimSeokhyun\Desktop\C_Sharp\Workspace\과제\example5(정수 자료형)\example5\obj\Debug\example5.csproj.CoreCompileInputs.cache
+C:\Users\KimSeokhyun\Desktop\C_Sharp\Workspace\과제\example5(정수 자료형)\example5\obj\Debug\example5.exe
+C:\Users\KimSeokhyun\Desktop\C_Sharp\Workspace\과제\example5(정수 자료형)\example5\obj\Debug\example5.pdb

@@ -1,0 +1,7 @@
+C:\Users\KimSeokhyun\source\repos\example8(리터럴 표기법)\example8\bin\Debug\example8.exe.config
+C:\Users\KimSeokhyun\source\repos\example8(리터럴 표기법)\example8\bin\Debug\example8.exe
+C:\Users\KimSeokhyun\source\repos\example8(리터럴 표기법)\example8\bin\Debug\example8.pdb
+C:\Users\KimSeokhyun\source\repos\example8(리터럴 표기법)\example8\obj\Debug\example8.csproj.AssemblyReference.cache
+C:\Users\KimSeokhyun\source\repos\example8(리터럴 표기법)\example8\obj\Debug\example8.csproj.CoreCompileInputs.cache
+C:\Users\KimSeokhyun\source\repos\example8(리터럴 표기법)\example8\obj\Debug\example8.exe
+C:\Users\KimSeokhyun\source\repos\example8(리터럴 표기법)\example8\obj\Debug\example8.pdb
