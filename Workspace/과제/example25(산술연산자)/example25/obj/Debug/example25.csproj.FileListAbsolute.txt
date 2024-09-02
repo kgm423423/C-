@@ -1,0 +1,7 @@
+C:\Users\KimSeokhyun\Desktop\C_Sharp\Workspace\과제\example25(산술연산자)\example25\bin\Debug\example25.exe.config
+C:\Users\KimSeokhyun\Desktop\C_Sharp\Workspace\과제\example25(산술연산자)\example25\bin\Debug\example25.exe
+C:\Users\KimSeokhyun\Desktop\C_Sharp\Workspace\과제\example25(산술연산자)\example25\bin\Debug\example25.pdb
+C:\Users\KimSeokhyun\Desktop\C_Sharp\Workspace\과제\example25(산술연산자)\example25\obj\Debug\example25.csproj.AssemblyReference.cache
+C:\Users\KimSeokhyun\Desktop\C_Sharp\Workspace\과제\example25(산술연산자)\example25\obj\Debug\example25.csproj.CoreCompileInputs.cache
+C:\Users\KimSeokhyun\Desktop\C_Sharp\Workspace\과제\example25(산술연산자)\example25\obj\Debug\example25.exe
+C:\Users\KimSeokhyun\Desktop\C_Sharp\Workspace\과제\example25(산술연산자)\example25\obj\Debug\example25.pdb

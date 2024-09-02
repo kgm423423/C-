@@ -1,0 +1,7 @@
+C:\Users\KimSeokhyun\Desktop\CS\Workspace\과제\example35(논리 연산자3)\example35\bin\Debug\example35.exe.config
+C:\Users\KimSeokhyun\Desktop\CS\Workspace\과제\example35(논리 연산자3)\example35\bin\Debug\example35.exe
+C:\Users\KimSeokhyun\Desktop\CS\Workspace\과제\example35(논리 연산자3)\example35\bin\Debug\example35.pdb
+C:\Users\KimSeokhyun\Desktop\CS\Workspace\과제\example35(논리 연산자3)\example35\obj\Debug\example35.csproj.AssemblyReference.cache
+C:\Users\KimSeokhyun\Desktop\CS\Workspace\과제\example35(논리 연산자3)\example35\obj\Debug\example35.csproj.CoreCompileInputs.cache
+C:\Users\KimSeokhyun\Desktop\CS\Workspace\과제\example35(논리 연산자3)\example35\obj\Debug\example35.exe
+C:\Users\KimSeokhyun\Desktop\CS\Workspace\과제\example35(논리 연산자3)\example35\obj\Debug\example35.pdb

@@ -1,0 +1,7 @@
+C:\Users\KimSeokhyun\Desktop\CS\Workspace\과제\example67(함수 참조형 호출)\example67\bin\Debug\example67.exe.config
+C:\Users\KimSeokhyun\Desktop\CS\Workspace\과제\example67(함수 참조형 호출)\example67\bin\Debug\example67.exe
+C:\Users\KimSeokhyun\Desktop\CS\Workspace\과제\example67(함수 참조형 호출)\example67\bin\Debug\example67.pdb
+C:\Users\KimSeokhyun\Desktop\CS\Workspace\과제\example67(함수 참조형 호출)\example67\obj\Debug\example67.csproj.AssemblyReference.cache
+C:\Users\KimSeokhyun\Desktop\CS\Workspace\과제\example67(함수 참조형 호출)\example67\obj\Debug\example67.csproj.CoreCompileInputs.cache
+C:\Users\KimSeokhyun\Desktop\CS\Workspace\과제\example67(함수 참조형 호출)\example67\obj\Debug\example67.exe
+C:\Users\KimSeokhyun\Desktop\CS\Workspace\과제\example67(함수 참조형 호출)\example67\obj\Debug\example67.pdb

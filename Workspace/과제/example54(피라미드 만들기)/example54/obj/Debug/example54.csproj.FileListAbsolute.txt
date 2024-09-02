@@ -1,0 +1,7 @@
+C:\Users\KimSeokhyun\Desktop\CS\Workspace\과제\example54(피라미드 만들기)\example54\bin\Debug\example54.exe.config
+C:\Users\KimSeokhyun\Desktop\CS\Workspace\과제\example54(피라미드 만들기)\example54\bin\Debug\example54.exe
+C:\Users\KimSeokhyun\Desktop\CS\Workspace\과제\example54(피라미드 만들기)\example54\bin\Debug\example54.pdb
+C:\Users\KimSeokhyun\Desktop\CS\Workspace\과제\example54(피라미드 만들기)\example54\obj\Debug\example54.csproj.AssemblyReference.cache
+C:\Users\KimSeokhyun\Desktop\CS\Workspace\과제\example54(피라미드 만들기)\example54\obj\Debug\example54.csproj.CoreCompileInputs.cache
+C:\Users\KimSeokhyun\Desktop\CS\Workspace\과제\example54(피라미드 만들기)\example54\obj\Debug\example54.exe
+C:\Users\KimSeokhyun\Desktop\CS\Workspace\과제\example54(피라미드 만들기)\example54\obj\Debug\example54.pdb

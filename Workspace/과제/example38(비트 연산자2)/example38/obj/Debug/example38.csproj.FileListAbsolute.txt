@@ -1,0 +1,7 @@
+C:\Users\KimSeokhyun\Desktop\CS\Workspace\과제\example38(비트 연산자)\example38\bin\Debug\example38.exe.config
+C:\Users\KimSeokhyun\Desktop\CS\Workspace\과제\example38(비트 연산자)\example38\bin\Debug\example38.exe
+C:\Users\KimSeokhyun\Desktop\CS\Workspace\과제\example38(비트 연산자)\example38\bin\Debug\example38.pdb
+C:\Users\KimSeokhyun\Desktop\CS\Workspace\과제\example38(비트 연산자)\example38\obj\Debug\example38.csproj.AssemblyReference.cache
+C:\Users\KimSeokhyun\Desktop\CS\Workspace\과제\example38(비트 연산자)\example38\obj\Debug\example38.csproj.CoreCompileInputs.cache
+C:\Users\KimSeokhyun\Desktop\CS\Workspace\과제\example38(비트 연산자)\example38\obj\Debug\example38.exe
+C:\Users\KimSeokhyun\Desktop\CS\Workspace\과제\example38(비트 연산자)\example38\obj\Debug\example38.pdb

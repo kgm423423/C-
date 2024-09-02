@@ -1,0 +1,7 @@
+C:\Users\KimSeokhyun\Desktop\CS\Workspace\과제\example68(0ut 변수 이용)\example68\bin\Debug\example68.exe.config
+C:\Users\KimSeokhyun\Desktop\CS\Workspace\과제\example68(0ut 변수 이용)\example68\bin\Debug\example68.exe
+C:\Users\KimSeokhyun\Desktop\CS\Workspace\과제\example68(0ut 변수 이용)\example68\bin\Debug\example68.pdb
+C:\Users\KimSeokhyun\Desktop\CS\Workspace\과제\example68(0ut 변수 이용)\example68\obj\Debug\example68.csproj.AssemblyReference.cache
+C:\Users\KimSeokhyun\Desktop\CS\Workspace\과제\example68(0ut 변수 이용)\example68\obj\Debug\example68.csproj.CoreCompileInputs.cache
+C:\Users\KimSeokhyun\Desktop\CS\Workspace\과제\example68(0ut 변수 이용)\example68\obj\Debug\example68.exe
+C:\Users\KimSeokhyun\Desktop\CS\Workspace\과제\example68(0ut 변수 이용)\example68\obj\Debug\example68.pdb

@@ -1,0 +1,7 @@
+C:\Users\KimSeokhyun\Desktop\CS\Workspace\과제\example49(반복문 foreach)\example49\bin\Debug\example49.exe.config
+C:\Users\KimSeokhyun\Desktop\CS\Workspace\과제\example49(반복문 foreach)\example49\bin\Debug\example49.exe
+C:\Users\KimSeokhyun\Desktop\CS\Workspace\과제\example49(반복문 foreach)\example49\bin\Debug\example49.pdb
+C:\Users\KimSeokhyun\Desktop\CS\Workspace\과제\example49(반복문 foreach)\example49\obj\Debug\example49.csproj.AssemblyReference.cache
+C:\Users\KimSeokhyun\Desktop\CS\Workspace\과제\example49(반복문 foreach)\example49\obj\Debug\example49.csproj.CoreCompileInputs.cache
+C:\Users\KimSeokhyun\Desktop\CS\Workspace\과제\example49(반복문 foreach)\example49\obj\Debug\example49.exe
+C:\Users\KimSeokhyun\Desktop\CS\Workspace\과제\example49(반복문 foreach)\example49\obj\Debug\example49.pdb

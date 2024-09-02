@@ -1,0 +1,7 @@
+C:\Users\KimSeokhyun\Desktop\CS\Workspace\과제\example32(조건 연산자)\example32\bin\Debug\example32.exe.config
+C:\Users\KimSeokhyun\Desktop\CS\Workspace\과제\example32(조건 연산자)\example32\bin\Debug\example32.exe
+C:\Users\KimSeokhyun\Desktop\CS\Workspace\과제\example32(조건 연산자)\example32\bin\Debug\example32.pdb
+C:\Users\KimSeokhyun\Desktop\CS\Workspace\과제\example32(조건 연산자)\example32\obj\Debug\example32.csproj.AssemblyReference.cache
+C:\Users\KimSeokhyun\Desktop\CS\Workspace\과제\example32(조건 연산자)\example32\obj\Debug\example32.csproj.CoreCompileInputs.cache
+C:\Users\KimSeokhyun\Desktop\CS\Workspace\과제\example32(조건 연산자)\example32\obj\Debug\example32.exe
+C:\Users\KimSeokhyun\Desktop\CS\Workspace\과제\example32(조건 연산자)\example32\obj\Debug\example32.pdb

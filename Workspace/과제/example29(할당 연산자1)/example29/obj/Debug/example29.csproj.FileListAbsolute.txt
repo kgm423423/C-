@@ -1,0 +1,7 @@
+C:\Users\KimSeokhyun\Desktop\C_Sharp\Workspace\과제\example29(할당 연산자1)\example29\bin\Debug\example29.exe.config
+C:\Users\KimSeokhyun\Desktop\C_Sharp\Workspace\과제\example29(할당 연산자1)\example29\bin\Debug\example29.exe
+C:\Users\KimSeokhyun\Desktop\C_Sharp\Workspace\과제\example29(할당 연산자1)\example29\bin\Debug\example29.pdb
+C:\Users\KimSeokhyun\Desktop\C_Sharp\Workspace\과제\example29(할당 연산자1)\example29\obj\Debug\example29.csproj.AssemblyReference.cache
+C:\Users\KimSeokhyun\Desktop\C_Sharp\Workspace\과제\example29(할당 연산자1)\example29\obj\Debug\example29.csproj.CoreCompileInputs.cache
+C:\Users\KimSeokhyun\Desktop\C_Sharp\Workspace\과제\example29(할당 연산자1)\example29\obj\Debug\example29.exe
+C:\Users\KimSeokhyun\Desktop\C_Sharp\Workspace\과제\example29(할당 연산자1)\example29\obj\Debug\example29.pdb

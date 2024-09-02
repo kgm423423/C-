@@ -1,0 +1,7 @@
+C:\Users\KimSeokhyun\Desktop\CS\Workspace\과제\example61(Stack)\example61\obj\Debug\example61.csproj.AssemblyReference.cache
+C:\Users\KimSeokhyun\Desktop\CS\Workspace\과제\example61(Stack)\example61\obj\Debug\example61.csproj.CoreCompileInputs.cache
+C:\Users\KimSeokhyun\Desktop\CS\Workspace\과제\example61(Stack)\example61\bin\Debug\example61.exe.config
+C:\Users\KimSeokhyun\Desktop\CS\Workspace\과제\example61(Stack)\example61\bin\Debug\example61.exe
+C:\Users\KimSeokhyun\Desktop\CS\Workspace\과제\example61(Stack)\example61\bin\Debug\example61.pdb
+C:\Users\KimSeokhyun\Desktop\CS\Workspace\과제\example61(Stack)\example61\obj\Debug\example61.exe
+C:\Users\KimSeokhyun\Desktop\CS\Workspace\과제\example61(Stack)\example61\obj\Debug\example61.pdb

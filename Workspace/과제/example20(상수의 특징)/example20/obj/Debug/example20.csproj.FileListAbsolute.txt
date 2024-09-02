@@ -1,0 +1,7 @@
+C:\Users\KimSeokhyun\Desktop\C_Sharp\Workspace\과제\example20(상수의 특징)\example20\bin\Debug\example20.exe.config
+C:\Users\KimSeokhyun\Desktop\C_Sharp\Workspace\과제\example20(상수의 특징)\example20\bin\Debug\example20.exe
+C:\Users\KimSeokhyun\Desktop\C_Sharp\Workspace\과제\example20(상수의 특징)\example20\bin\Debug\example20.pdb
+C:\Users\KimSeokhyun\Desktop\C_Sharp\Workspace\과제\example20(상수의 특징)\example20\obj\Debug\example20.csproj.AssemblyReference.cache
+C:\Users\KimSeokhyun\Desktop\C_Sharp\Workspace\과제\example20(상수의 특징)\example20\obj\Debug\example20.csproj.CoreCompileInputs.cache
+C:\Users\KimSeokhyun\Desktop\C_Sharp\Workspace\과제\example20(상수의 특징)\example20\obj\Debug\example20.exe
+C:\Users\KimSeokhyun\Desktop\C_Sharp\Workspace\과제\example20(상수의 특징)\example20\obj\Debug\example20.pdb

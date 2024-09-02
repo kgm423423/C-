@@ -1,0 +1,7 @@
+C:\Users\KimSeokhyun\Desktop\C_Sharp\Workspace\과제\example27(증가 연산자)\example27\bin\Debug\example27.exe.config
+C:\Users\KimSeokhyun\Desktop\C_Sharp\Workspace\과제\example27(증가 연산자)\example27\bin\Debug\example27.exe
+C:\Users\KimSeokhyun\Desktop\C_Sharp\Workspace\과제\example27(증가 연산자)\example27\bin\Debug\example27.pdb
+C:\Users\KimSeokhyun\Desktop\C_Sharp\Workspace\과제\example27(증가 연산자)\example27\obj\Debug\example27.csproj.AssemblyReference.cache
+C:\Users\KimSeokhyun\Desktop\C_Sharp\Workspace\과제\example27(증가 연산자)\example27\obj\Debug\example27.csproj.CoreCompileInputs.cache
+C:\Users\KimSeokhyun\Desktop\C_Sharp\Workspace\과제\example27(증가 연산자)\example27\obj\Debug\example27.exe
+C:\Users\KimSeokhyun\Desktop\C_Sharp\Workspace\과제\example27(증가 연산자)\example27\obj\Debug\example27.pdb

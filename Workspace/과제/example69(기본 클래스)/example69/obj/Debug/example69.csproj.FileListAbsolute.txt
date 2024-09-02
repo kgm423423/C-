@@ -1,0 +1,7 @@
+C:\Users\KimSeokhyun\Desktop\CS\Workspace\과제\example69(기본 클래스)\example69\bin\Debug\example69.exe.config
+C:\Users\KimSeokhyun\Desktop\CS\Workspace\과제\example69(기본 클래스)\example69\bin\Debug\example69.exe
+C:\Users\KimSeokhyun\Desktop\CS\Workspace\과제\example69(기본 클래스)\example69\bin\Debug\example69.pdb
+C:\Users\KimSeokhyun\Desktop\CS\Workspace\과제\example69(기본 클래스)\example69\obj\Debug\example69.csproj.AssemblyReference.cache
+C:\Users\KimSeokhyun\Desktop\CS\Workspace\과제\example69(기본 클래스)\example69\obj\Debug\example69.csproj.CoreCompileInputs.cache
+C:\Users\KimSeokhyun\Desktop\CS\Workspace\과제\example69(기본 클래스)\example69\obj\Debug\example69.exe
+C:\Users\KimSeokhyun\Desktop\CS\Workspace\과제\example69(기본 클래스)\example69\obj\Debug\example69.pdb

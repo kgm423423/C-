@@ -1,0 +1,7 @@
+C:\Users\KimSeokhyun\Desktop\CS\Workspace\과제\example46(반복문 while2)\example46\bin\Debug\example46.exe.config
+C:\Users\KimSeokhyun\Desktop\CS\Workspace\과제\example46(반복문 while2)\example46\bin\Debug\example46.exe
+C:\Users\KimSeokhyun\Desktop\CS\Workspace\과제\example46(반복문 while2)\example46\bin\Debug\example46.pdb
+C:\Users\KimSeokhyun\Desktop\CS\Workspace\과제\example46(반복문 while2)\example46\obj\Debug\example46.csproj.AssemblyReference.cache
+C:\Users\KimSeokhyun\Desktop\CS\Workspace\과제\example46(반복문 while2)\example46\obj\Debug\example46.csproj.CoreCompileInputs.cache
+C:\Users\KimSeokhyun\Desktop\CS\Workspace\과제\example46(반복문 while2)\example46\obj\Debug\example46.exe
+C:\Users\KimSeokhyun\Desktop\CS\Workspace\과제\example46(반복문 while2)\example46\obj\Debug\example46.pdb

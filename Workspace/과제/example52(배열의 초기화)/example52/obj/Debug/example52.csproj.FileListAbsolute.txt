@@ -1,0 +1,7 @@
+C:\Users\KimSeokhyun\Desktop\CS\Workspace\과제\example52(배열의 초기화)\example52\bin\Debug\example52.exe.config
+C:\Users\KimSeokhyun\Desktop\CS\Workspace\과제\example52(배열의 초기화)\example52\bin\Debug\example52.exe
+C:\Users\KimSeokhyun\Desktop\CS\Workspace\과제\example52(배열의 초기화)\example52\bin\Debug\example52.pdb
+C:\Users\KimSeokhyun\Desktop\CS\Workspace\과제\example52(배열의 초기화)\example52\obj\Debug\example52.csproj.AssemblyReference.cache
+C:\Users\KimSeokhyun\Desktop\CS\Workspace\과제\example52(배열의 초기화)\example52\obj\Debug\example52.csproj.CoreCompileInputs.cache
+C:\Users\KimSeokhyun\Desktop\CS\Workspace\과제\example52(배열의 초기화)\example52\obj\Debug\example52.exe
+C:\Users\KimSeokhyun\Desktop\CS\Workspace\과제\example52(배열의 초기화)\example52\obj\Debug\example52.pdb

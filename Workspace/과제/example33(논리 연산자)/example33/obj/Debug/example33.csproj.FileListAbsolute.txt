@@ -1,0 +1,7 @@
+C:\Users\KimSeokhyun\Desktop\CS\Workspace\과제\example33(논리 연산자)\example33\bin\Debug\example33.exe.config
+C:\Users\KimSeokhyun\Desktop\CS\Workspace\과제\example33(논리 연산자)\example33\bin\Debug\example33.exe
+C:\Users\KimSeokhyun\Desktop\CS\Workspace\과제\example33(논리 연산자)\example33\bin\Debug\example33.pdb
+C:\Users\KimSeokhyun\Desktop\CS\Workspace\과제\example33(논리 연산자)\example33\obj\Debug\example33.csproj.AssemblyReference.cache
+C:\Users\KimSeokhyun\Desktop\CS\Workspace\과제\example33(논리 연산자)\example33\obj\Debug\example33.csproj.CoreCompileInputs.cache
+C:\Users\KimSeokhyun\Desktop\CS\Workspace\과제\example33(논리 연산자)\example33\obj\Debug\example33.exe
+C:\Users\KimSeokhyun\Desktop\CS\Workspace\과제\example33(논리 연산자)\example33\obj\Debug\example33.pdb

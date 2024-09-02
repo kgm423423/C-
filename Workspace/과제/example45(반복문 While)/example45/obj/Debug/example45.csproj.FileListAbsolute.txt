@@ -1,0 +1,7 @@
+C:\Users\KimSeokhyun\Desktop\CS\Workspace\과제\example45(반복문 While)\example45\bin\Debug\example45.exe.config
+C:\Users\KimSeokhyun\Desktop\CS\Workspace\과제\example45(반복문 While)\example45\bin\Debug\example45.exe
+C:\Users\KimSeokhyun\Desktop\CS\Workspace\과제\example45(반복문 While)\example45\bin\Debug\example45.pdb
+C:\Users\KimSeokhyun\Desktop\CS\Workspace\과제\example45(반복문 While)\example45\obj\Debug\example45.csproj.AssemblyReference.cache
+C:\Users\KimSeokhyun\Desktop\CS\Workspace\과제\example45(반복문 While)\example45\obj\Debug\example45.csproj.CoreCompileInputs.cache
+C:\Users\KimSeokhyun\Desktop\CS\Workspace\과제\example45(반복문 While)\example45\obj\Debug\example45.exe
+C:\Users\KimSeokhyun\Desktop\CS\Workspace\과제\example45(반복문 While)\example45\obj\Debug\example45.pdb

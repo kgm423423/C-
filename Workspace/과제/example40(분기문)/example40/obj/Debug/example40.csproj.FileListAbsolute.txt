@@ -1,0 +1,7 @@
+C:\Users\KimSeokhyun\Desktop\CS\Workspace\과제\example40(분기문)\example40\bin\Debug\example40.exe.config
+C:\Users\KimSeokhyun\Desktop\CS\Workspace\과제\example40(분기문)\example40\bin\Debug\example40.exe
+C:\Users\KimSeokhyun\Desktop\CS\Workspace\과제\example40(분기문)\example40\bin\Debug\example40.pdb
+C:\Users\KimSeokhyun\Desktop\CS\Workspace\과제\example40(분기문)\example40\obj\Debug\example40.csproj.AssemblyReference.cache
+C:\Users\KimSeokhyun\Desktop\CS\Workspace\과제\example40(분기문)\example40\obj\Debug\example40.csproj.CoreCompileInputs.cache
+C:\Users\KimSeokhyun\Desktop\CS\Workspace\과제\example40(분기문)\example40\obj\Debug\example40.exe
+C:\Users\KimSeokhyun\Desktop\CS\Workspace\과제\example40(분기문)\example40\obj\Debug\example40.pdb

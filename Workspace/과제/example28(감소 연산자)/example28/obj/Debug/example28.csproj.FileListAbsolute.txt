@@ -1,0 +1,7 @@
+C:\Users\KimSeokhyun\Desktop\C_Sharp\Workspace\과제\example28(감소 연산자)\example28\bin\Debug\example28.exe.config
+C:\Users\KimSeokhyun\Desktop\C_Sharp\Workspace\과제\example28(감소 연산자)\example28\bin\Debug\example28.exe
+C:\Users\KimSeokhyun\Desktop\C_Sharp\Workspace\과제\example28(감소 연산자)\example28\bin\Debug\example28.pdb
+C:\Users\KimSeokhyun\Desktop\C_Sharp\Workspace\과제\example28(감소 연산자)\example28\obj\Debug\example28.csproj.AssemblyReference.cache
+C:\Users\KimSeokhyun\Desktop\C_Sharp\Workspace\과제\example28(감소 연산자)\example28\obj\Debug\example28.csproj.CoreCompileInputs.cache
+C:\Users\KimSeokhyun\Desktop\C_Sharp\Workspace\과제\example28(감소 연산자)\example28\obj\Debug\example28.exe
+C:\Users\KimSeokhyun\Desktop\C_Sharp\Workspace\과제\example28(감소 연산자)\example28\obj\Debug\example28.pdb

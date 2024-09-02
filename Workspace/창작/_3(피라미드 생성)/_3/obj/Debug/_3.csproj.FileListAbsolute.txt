@@ -1,0 +1,7 @@
+C:\Users\KimSeokhyun\Desktop\CS\Workspace\과제\_3(피라미드 생성)\_3\bin\Debug\_3.exe.config
+C:\Users\KimSeokhyun\Desktop\CS\Workspace\과제\_3(피라미드 생성)\_3\bin\Debug\_3.exe
+C:\Users\KimSeokhyun\Desktop\CS\Workspace\과제\_3(피라미드 생성)\_3\bin\Debug\_3.pdb
+C:\Users\KimSeokhyun\Desktop\CS\Workspace\과제\_3(피라미드 생성)\_3\obj\Debug\_3.csproj.AssemblyReference.cache
+C:\Users\KimSeokhyun\Desktop\CS\Workspace\과제\_3(피라미드 생성)\_3\obj\Debug\_3.csproj.CoreCompileInputs.cache
+C:\Users\KimSeokhyun\Desktop\CS\Workspace\과제\_3(피라미드 생성)\_3\obj\Debug\_3.exe
+C:\Users\KimSeokhyun\Desktop\CS\Workspace\과제\_3(피라미드 생성)\_3\obj\Debug\_3.pdb

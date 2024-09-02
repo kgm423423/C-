@@ -1,0 +1,7 @@
+C:\Users\KimSeokhyun\Desktop\CS\Workspace\과제\example51(점프문 break2)\example51\bin\Debug\example51.exe.config
+C:\Users\KimSeokhyun\Desktop\CS\Workspace\과제\example51(점프문 break2)\example51\bin\Debug\example51.exe
+C:\Users\KimSeokhyun\Desktop\CS\Workspace\과제\example51(점프문 break2)\example51\bin\Debug\example51.pdb
+C:\Users\KimSeokhyun\Desktop\CS\Workspace\과제\example51(점프문 break2)\example51\obj\Debug\example51.csproj.AssemblyReference.cache
+C:\Users\KimSeokhyun\Desktop\CS\Workspace\과제\example51(점프문 break2)\example51\obj\Debug\example51.csproj.CoreCompileInputs.cache
+C:\Users\KimSeokhyun\Desktop\CS\Workspace\과제\example51(점프문 break2)\example51\obj\Debug\example51.exe
+C:\Users\KimSeokhyun\Desktop\CS\Workspace\과제\example51(점프문 break2)\example51\obj\Debug\example51.pdb

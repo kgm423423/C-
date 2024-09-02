@@ -1,0 +1,7 @@
+C:\Users\KimSeokhyun\Desktop\CS\Workspace\과제\example59(Array List)\example59\bin\Debug\example59.exe.config
+C:\Users\KimSeokhyun\Desktop\CS\Workspace\과제\example59(Array List)\example59\bin\Debug\example59.exe
+C:\Users\KimSeokhyun\Desktop\CS\Workspace\과제\example59(Array List)\example59\bin\Debug\example59.pdb
+C:\Users\KimSeokhyun\Desktop\CS\Workspace\과제\example59(Array List)\example59\obj\Debug\example59.csproj.AssemblyReference.cache
+C:\Users\KimSeokhyun\Desktop\CS\Workspace\과제\example59(Array List)\example59\obj\Debug\example59.csproj.CoreCompileInputs.cache
+C:\Users\KimSeokhyun\Desktop\CS\Workspace\과제\example59(Array List)\example59\obj\Debug\example59.exe
+C:\Users\KimSeokhyun\Desktop\CS\Workspace\과제\example59(Array List)\example59\obj\Debug\example59.pdb

@@ -1,0 +1,7 @@
+C:\Users\KimSeokhyun\Desktop\CS\Workspace\과제\example58(jagged)\example58\obj\Debug\example58.csproj.AssemblyReference.cache
+C:\Users\KimSeokhyun\Desktop\CS\Workspace\과제\example58(jagged)\example58\obj\Debug\example58.csproj.CoreCompileInputs.cache
+C:\Users\KimSeokhyun\Desktop\CS\Workspace\과제\example58(jagged)\example58\bin\Debug\example58.exe.config
+C:\Users\KimSeokhyun\Desktop\CS\Workspace\과제\example58(jagged)\example58\bin\Debug\example58.exe
+C:\Users\KimSeokhyun\Desktop\CS\Workspace\과제\example58(jagged)\example58\bin\Debug\example58.pdb
+C:\Users\KimSeokhyun\Desktop\CS\Workspace\과제\example58(jagged)\example58\obj\Debug\example58.exe
+C:\Users\KimSeokhyun\Desktop\CS\Workspace\과제\example58(jagged)\example58\obj\Debug\example58.pdb

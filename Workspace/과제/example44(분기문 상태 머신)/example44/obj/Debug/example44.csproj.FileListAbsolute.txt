@@ -1,0 +1,7 @@
+C:\Users\KimSeokhyun\Desktop\CS\Workspace\과제\example44(분기문 상태 머신)\example44\obj\Debug\example44.csproj.AssemblyReference.cache
+C:\Users\KimSeokhyun\Desktop\CS\Workspace\과제\example44(분기문 상태 머신)\example44\obj\Debug\example44.csproj.CoreCompileInputs.cache
+C:\Users\KimSeokhyun\Desktop\CS\Workspace\과제\example44(분기문 상태 머신)\example44\bin\Debug\example44.exe.config
+C:\Users\KimSeokhyun\Desktop\CS\Workspace\과제\example44(분기문 상태 머신)\example44\bin\Debug\example44.exe
+C:\Users\KimSeokhyun\Desktop\CS\Workspace\과제\example44(분기문 상태 머신)\example44\bin\Debug\example44.pdb
+C:\Users\KimSeokhyun\Desktop\CS\Workspace\과제\example44(분기문 상태 머신)\example44\obj\Debug\example44.exe
+C:\Users\KimSeokhyun\Desktop\CS\Workspace\과제\example44(분기문 상태 머신)\example44\obj\Debug\example44.pdb

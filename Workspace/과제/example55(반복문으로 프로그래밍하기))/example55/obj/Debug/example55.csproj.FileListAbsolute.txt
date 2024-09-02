@@ -1,0 +1,7 @@
+C:\Users\KimSeokhyun\Desktop\CS\Workspace\과제\example55(반복문으로 프로그래밍하기))\example55\bin\Debug\example55.exe.config
+C:\Users\KimSeokhyun\Desktop\CS\Workspace\과제\example55(반복문으로 프로그래밍하기))\example55\bin\Debug\example55.exe
+C:\Users\KimSeokhyun\Desktop\CS\Workspace\과제\example55(반복문으로 프로그래밍하기))\example55\bin\Debug\example55.pdb
+C:\Users\KimSeokhyun\Desktop\CS\Workspace\과제\example55(반복문으로 프로그래밍하기))\example55\obj\Debug\example55.csproj.AssemblyReference.cache
+C:\Users\KimSeokhyun\Desktop\CS\Workspace\과제\example55(반복문으로 프로그래밍하기))\example55\obj\Debug\example55.csproj.CoreCompileInputs.cache
+C:\Users\KimSeokhyun\Desktop\CS\Workspace\과제\example55(반복문으로 프로그래밍하기))\example55\obj\Debug\example55.exe
+C:\Users\KimSeokhyun\Desktop\CS\Workspace\과제\example55(반복문으로 프로그래밍하기))\example55\obj\Debug\example55.pdb

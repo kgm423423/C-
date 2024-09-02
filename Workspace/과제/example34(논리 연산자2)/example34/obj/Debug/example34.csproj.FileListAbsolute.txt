@@ -1,0 +1,7 @@
+C:\Users\KimSeokhyun\Desktop\CS\Workspace\과제\example34(논리 연산자2)\example34\bin\Debug\example34.exe.config
+C:\Users\KimSeokhyun\Desktop\CS\Workspace\과제\example34(논리 연산자2)\example34\bin\Debug\example34.exe
+C:\Users\KimSeokhyun\Desktop\CS\Workspace\과제\example34(논리 연산자2)\example34\bin\Debug\example34.pdb
+C:\Users\KimSeokhyun\Desktop\CS\Workspace\과제\example34(논리 연산자2)\example34\obj\Debug\example34.csproj.AssemblyReference.cache
+C:\Users\KimSeokhyun\Desktop\CS\Workspace\과제\example34(논리 연산자2)\example34\obj\Debug\example34.csproj.CoreCompileInputs.cache
+C:\Users\KimSeokhyun\Desktop\CS\Workspace\과제\example34(논리 연산자2)\example34\obj\Debug\example34.exe
+C:\Users\KimSeokhyun\Desktop\CS\Workspace\과제\example34(논리 연산자2)\example34\obj\Debug\example34.pdb

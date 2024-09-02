@@ -1,0 +1,7 @@
+C:\Users\KimSeokhyun\Desktop\CS\Workspace\과제\example43(분기문3)\example43\obj\Debug\example43.csproj.AssemblyReference.cache
+C:\Users\KimSeokhyun\Desktop\CS\Workspace\과제\example43(분기문3)\example43\obj\Debug\example43.csproj.CoreCompileInputs.cache
+C:\Users\KimSeokhyun\Desktop\CS\Workspace\과제\example43(분기문3)\example43\bin\Debug\example43.exe.config
+C:\Users\KimSeokhyun\Desktop\CS\Workspace\과제\example43(분기문3)\example43\bin\Debug\example43.exe
+C:\Users\KimSeokhyun\Desktop\CS\Workspace\과제\example43(분기문3)\example43\bin\Debug\example43.pdb
+C:\Users\KimSeokhyun\Desktop\CS\Workspace\과제\example43(분기문3)\example43\obj\Debug\example43.exe
+C:\Users\KimSeokhyun\Desktop\CS\Workspace\과제\example43(분기문3)\example43\obj\Debug\example43.pdb

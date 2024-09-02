@@ -1,0 +1,7 @@
+C:\Users\KimSeokhyun\Desktop\C_Sharp\Workspace\과제\example21(열거형1)\example21\bin\Debug\example21.exe.config
+C:\Users\KimSeokhyun\Desktop\C_Sharp\Workspace\과제\example21(열거형1)\example21\bin\Debug\example21.exe
+C:\Users\KimSeokhyun\Desktop\C_Sharp\Workspace\과제\example21(열거형1)\example21\bin\Debug\example21.pdb
+C:\Users\KimSeokhyun\Desktop\C_Sharp\Workspace\과제\example21(열거형1)\example21\obj\Debug\example21.csproj.AssemblyReference.cache
+C:\Users\KimSeokhyun\Desktop\C_Sharp\Workspace\과제\example21(열거형1)\example21\obj\Debug\example21.csproj.CoreCompileInputs.cache
+C:\Users\KimSeokhyun\Desktop\C_Sharp\Workspace\과제\example21(열거형1)\example21\obj\Debug\example21.exe
+C:\Users\KimSeokhyun\Desktop\C_Sharp\Workspace\과제\example21(열거형1)\example21\obj\Debug\example21.pdb

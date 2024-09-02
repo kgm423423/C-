@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\KimSeokhyun\\Desktop\\CS\\Workspace\\\uACFC\uC81C\\example46(\uBC18\uBCF5\uBB38 while2)\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BCE35B75-3434-49FB-8E57-F0DE1EC353B8}|example46\\example46.csproj|c:\\users\\kimseokhyun\\desktop\\cs\\workspace\\\uACFC\uC81C\\example46(\uBC18\uBCF5\uBB38 while2)\\example46\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCE35B75-3434-49FB-8E57-F0DE1EC353B8}|example46\\example46.csproj|solutionrelative:example46\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\KimSeokhyun\\Desktop\\CS\\Workspace\\\uACFC\uC81C\\example46(\uBC18\uBCF5\uBB38 while2)\\example46\\Program.cs",
+              "RelativeDocumentMoniker": "example46\\Program.cs",
+              "ToolTip": "C:\\Users\\KimSeokhyun\\Desktop\\CS\\Workspace\\\uACFC\uC81C\\example46(\uBC18\uBCF5\uBB38 while2)\\example46\\Program.cs",
+              "RelativeToolTip": "example46\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvxoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T01:57:31.17Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

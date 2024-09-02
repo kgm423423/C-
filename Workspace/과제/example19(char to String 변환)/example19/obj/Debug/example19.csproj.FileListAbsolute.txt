@@ -1,0 +1,7 @@
+C:\Users\KimSeokhyun\Desktop\C_Sharp\Workspace\과제\example19(char to String 변환)\example19\bin\Debug\example19.exe.config
+C:\Users\KimSeokhyun\Desktop\C_Sharp\Workspace\과제\example19(char to String 변환)\example19\bin\Debug\example19.exe
+C:\Users\KimSeokhyun\Desktop\C_Sharp\Workspace\과제\example19(char to String 변환)\example19\bin\Debug\example19.pdb
+C:\Users\KimSeokhyun\Desktop\C_Sharp\Workspace\과제\example19(char to String 변환)\example19\obj\Debug\example19.csproj.AssemblyReference.cache
+C:\Users\KimSeokhyun\Desktop\C_Sharp\Workspace\과제\example19(char to String 변환)\example19\obj\Debug\example19.csproj.CoreCompileInputs.cache
+C:\Users\KimSeokhyun\Desktop\C_Sharp\Workspace\과제\example19(char to String 변환)\example19\obj\Debug\example19.exe
+C:\Users\KimSeokhyun\Desktop\C_Sharp\Workspace\과제\example19(char to String 변환)\example19\obj\Debug\example19.pdb

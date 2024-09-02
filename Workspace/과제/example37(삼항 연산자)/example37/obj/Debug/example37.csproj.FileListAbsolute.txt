@@ -1,0 +1,7 @@
+C:\Users\KimSeokhyun\Desktop\CS\Workspace\과제\example37(삼항 연산자)\example37\bin\Debug\example37.exe.config
+C:\Users\KimSeokhyun\Desktop\CS\Workspace\과제\example37(삼항 연산자)\example37\bin\Debug\example37.exe
+C:\Users\KimSeokhyun\Desktop\CS\Workspace\과제\example37(삼항 연산자)\example37\bin\Debug\example37.pdb
+C:\Users\KimSeokhyun\Desktop\CS\Workspace\과제\example37(삼항 연산자)\example37\obj\Debug\example37.csproj.AssemblyReference.cache
+C:\Users\KimSeokhyun\Desktop\CS\Workspace\과제\example37(삼항 연산자)\example37\obj\Debug\example37.csproj.CoreCompileInputs.cache
+C:\Users\KimSeokhyun\Desktop\CS\Workspace\과제\example37(삼항 연산자)\example37\obj\Debug\example37.exe
+C:\Users\KimSeokhyun\Desktop\CS\Workspace\과제\example37(삼항 연산자)\example37\obj\Debug\example37.pdb

@@ -1,0 +1,7 @@
+C:\Users\KimSeokhyun\Desktop\CS\Workspace\과제\example56(배열 정렬)\example56\bin\Debug\example56.exe.config
+C:\Users\KimSeokhyun\Desktop\CS\Workspace\과제\example56(배열 정렬)\example56\bin\Debug\example56.exe
+C:\Users\KimSeokhyun\Desktop\CS\Workspace\과제\example56(배열 정렬)\example56\bin\Debug\example56.pdb
+C:\Users\KimSeokhyun\Desktop\CS\Workspace\과제\example56(배열 정렬)\example56\obj\Debug\example56.csproj.AssemblyReference.cache
+C:\Users\KimSeokhyun\Desktop\CS\Workspace\과제\example56(배열 정렬)\example56\obj\Debug\example56.csproj.CoreCompileInputs.cache
+C:\Users\KimSeokhyun\Desktop\CS\Workspace\과제\example56(배열 정렬)\example56\obj\Debug\example56.exe
+C:\Users\KimSeokhyun\Desktop\CS\Workspace\과제\example56(배열 정렬)\example56\obj\Debug\example56.pdb

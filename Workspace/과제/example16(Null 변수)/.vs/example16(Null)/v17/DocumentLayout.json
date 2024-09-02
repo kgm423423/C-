@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\KimSeokhyun\\Desktop\\C_Sharp\\Workspace\\\uACFC\uC81C\\example16(Null)\\",
+  "WorkspaceRootPath": "C:\\Users\\KimSeokhyun\\Desktop\\C_Sharp\\Workspace\\\uACFC\uC81C\\example16(Null \uBCC0\uC218)\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{AE0DC1EC-A6CE-4C3B-AC77-C9EED67CBAA9}|example16\\example16.csproj|c:\\users\\kimseokhyun\\desktop\\c_sharp\\workspace\\\uACFC\uC81C\\example16(null)\\example16\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{AE0DC1EC-A6CE-4C3B-AC77-C9EED67CBAA9}|example16\\example16.csproj|c:\\users\\kimseokhyun\\desktop\\c_sharp\\workspace\\\uACFC\uC81C\\example16(null \uBCC0\uC218)\\example16\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AE0DC1EC-A6CE-4C3B-AC77-C9EED67CBAA9}|example16\\example16.csproj|solutionrelative:example16\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -24,11 +24,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\KimSeokhyun\\Desktop\\C_Sharp\\Workspace\\\uACFC\uC81C\\example16(Null)\\example16\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\KimSeokhyun\\Desktop\\C_Sharp\\Workspace\\\uACFC\uC81C\\example16(Null \uBCC0\uC218)\\example16\\Program.cs",
               "RelativeDocumentMoniker": "example16\\Program.cs",
-              "ToolTip": "C:\\Users\\KimSeokhyun\\Desktop\\C_Sharp\\Workspace\\\uACFC\uC81C\\example16(Null)\\example16\\Program.cs",
+              "ToolTip": "C:\\Users\\KimSeokhyun\\Desktop\\C_Sharp\\Workspace\\\uACFC\uC81C\\example16(Null \uBCC0\uC218)\\example16\\Program.cs",
               "RelativeToolTip": "example16\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAADwvxMAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-13T06:38:52.76Z",
               "EditorCaption": ""

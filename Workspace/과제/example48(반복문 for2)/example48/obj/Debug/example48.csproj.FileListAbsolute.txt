@@ -1,0 +1,7 @@
+C:\Users\KimSeokhyun\Desktop\CS\Workspace\과제\example48(반복문 for2)\example48\bin\Debug\example48.exe.config
+C:\Users\KimSeokhyun\Desktop\CS\Workspace\과제\example48(반복문 for2)\example48\bin\Debug\example48.exe
+C:\Users\KimSeokhyun\Desktop\CS\Workspace\과제\example48(반복문 for2)\example48\bin\Debug\example48.pdb
+C:\Users\KimSeokhyun\Desktop\CS\Workspace\과제\example48(반복문 for2)\example48\obj\Debug\example48.csproj.AssemblyReference.cache
+C:\Users\KimSeokhyun\Desktop\CS\Workspace\과제\example48(반복문 for2)\example48\obj\Debug\example48.csproj.CoreCompileInputs.cache
+C:\Users\KimSeokhyun\Desktop\CS\Workspace\과제\example48(반복문 for2)\example48\obj\Debug\example48.exe
+C:\Users\KimSeokhyun\Desktop\CS\Workspace\과제\example48(반복문 for2)\example48\obj\Debug\example48.pdb

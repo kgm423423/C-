@@ -1,0 +1,7 @@
+C:\Users\KimSeokhyun\Desktop\C_Sharp\Workspace\과제\example24((Var 변수)\example24\bin\Debug\example24.exe.config
+C:\Users\KimSeokhyun\Desktop\C_Sharp\Workspace\과제\example24((Var 변수)\example24\bin\Debug\example24.exe
+C:\Users\KimSeokhyun\Desktop\C_Sharp\Workspace\과제\example24((Var 변수)\example24\bin\Debug\example24.pdb
+C:\Users\KimSeokhyun\Desktop\C_Sharp\Workspace\과제\example24((Var 변수)\example24\obj\Debug\example24.csproj.AssemblyReference.cache
+C:\Users\KimSeokhyun\Desktop\C_Sharp\Workspace\과제\example24((Var 변수)\example24\obj\Debug\example24.csproj.CoreCompileInputs.cache
+C:\Users\KimSeokhyun\Desktop\C_Sharp\Workspace\과제\example24((Var 변수)\example24\obj\Debug\example24.exe
+C:\Users\KimSeokhyun\Desktop\C_Sharp\Workspace\과제\example24((Var 변수)\example24\obj\Debug\example24.pdb
