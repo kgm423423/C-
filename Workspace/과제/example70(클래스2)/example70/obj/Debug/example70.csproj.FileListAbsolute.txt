@@ -1,0 +1,7 @@
+C:\Users\KimSeokhyun\Desktop\CS\Workspace\과제\example70(클래스2)\example70\obj\Debug\example70.csproj.AssemblyReference.cache
+C:\Users\KimSeokhyun\Desktop\CS\Workspace\과제\example70(클래스2)\example70\obj\Debug\example70.csproj.CoreCompileInputs.cache
+C:\Users\KimSeokhyun\Desktop\CS\Workspace\과제\example70(클래스2)\example70\bin\Debug\example70.exe.config
+C:\Users\KimSeokhyun\Desktop\CS\Workspace\과제\example70(클래스2)\example70\bin\Debug\example70.exe
+C:\Users\KimSeokhyun\Desktop\CS\Workspace\과제\example70(클래스2)\example70\bin\Debug\example70.pdb
+C:\Users\KimSeokhyun\Desktop\CS\Workspace\과제\example70(클래스2)\example70\obj\Debug\example70.exe
+C:\Users\KimSeokhyun\Desktop\CS\Workspace\과제\example70(클래스2)\example70\obj\Debug\example70.pdb

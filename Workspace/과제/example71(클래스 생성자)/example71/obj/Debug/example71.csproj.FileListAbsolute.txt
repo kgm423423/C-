@@ -1,0 +1,7 @@
+C:\Users\KimSeokhyun\Desktop\CS\Workspace\과제\example71(클래스 멤버변수)\example71\bin\Debug\example71.exe.config
+C:\Users\KimSeokhyun\Desktop\CS\Workspace\과제\example71(클래스 멤버변수)\example71\bin\Debug\example71.exe
+C:\Users\KimSeokhyun\Desktop\CS\Workspace\과제\example71(클래스 멤버변수)\example71\bin\Debug\example71.pdb
+C:\Users\KimSeokhyun\Desktop\CS\Workspace\과제\example71(클래스 멤버변수)\example71\obj\Debug\example71.csproj.AssemblyReference.cache
+C:\Users\KimSeokhyun\Desktop\CS\Workspace\과제\example71(클래스 멤버변수)\example71\obj\Debug\example71.csproj.CoreCompileInputs.cache
+C:\Users\KimSeokhyun\Desktop\CS\Workspace\과제\example71(클래스 멤버변수)\example71\obj\Debug\example71.exe
+C:\Users\KimSeokhyun\Desktop\CS\Workspace\과제\example71(클래스 멤버변수)\example71\obj\Debug\example71.pdb

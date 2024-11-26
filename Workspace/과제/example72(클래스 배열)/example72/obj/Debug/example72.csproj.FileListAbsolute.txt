@@ -1,0 +1,7 @@
+C:\Users\KimSeokhyun\Desktop\CS\Workspace\과제\example72(클래스 배열)\example72\bin\Debug\example72.exe.config
+C:\Users\KimSeokhyun\Desktop\CS\Workspace\과제\example72(클래스 배열)\example72\bin\Debug\example72.exe
+C:\Users\KimSeokhyun\Desktop\CS\Workspace\과제\example72(클래스 배열)\example72\bin\Debug\example72.pdb
+C:\Users\KimSeokhyun\Desktop\CS\Workspace\과제\example72(클래스 배열)\example72\obj\Debug\example72.csproj.AssemblyReference.cache
+C:\Users\KimSeokhyun\Desktop\CS\Workspace\과제\example72(클래스 배열)\example72\obj\Debug\example72.csproj.CoreCompileInputs.cache
+C:\Users\KimSeokhyun\Desktop\CS\Workspace\과제\example72(클래스 배열)\example72\obj\Debug\example72.exe
+C:\Users\KimSeokhyun\Desktop\CS\Workspace\과제\example72(클래스 배열)\example72\obj\Debug\example72.pdb
